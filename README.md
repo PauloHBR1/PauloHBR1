@@ -1,7 +1,5 @@
 ## Hi there 👋
 ---------------------------------
-My name is Paulo 😀, I'm 24 years old. I work as a sales assistant at Oficina da Festa. I'm currently studying front-end development, learning HTML, CSS, JavaScript, and the basics of Git and GitHub. 
-I'm also studying English to improve my skills.
 
 <h1>👋 Hello, My name is Paulo 😀, I'm 24 years old. I work as a sales assistant at Oficina da Festa. I'm currently studying front-end development, learning HTML, CSS, JavaScript, and the basics of Git and GitHub. 
 I'm also studying English to improve my skills..</h1>
@@ -26,6 +24,9 @@ I'm also studying English to improve my skills..</h1>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+    <a>
+      href="https://www.linkedin.com/in/paulo-henrique-ribeiro-0a4788244/" alt"linkedin" width="30" height"30"/>
+    </a>
   </a>
 </p>
 ---
