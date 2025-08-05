@@ -1,7 +1,8 @@
 ## Hi there 👋
 ---------------------------------
 
-<h1>👋 Hello, My name is Paulo 😀, I'm 24 years old. I work as a sales assistant at Oficina da Festa. I'm currently studying front-end development, learning HTML, CSS, JavaScript, and the basics of Git and GitHub. 
+<h1>👋 Hello, My name is Paulo 😀,
+I'm 24 years old. I work as a sales assistant at Oficina da Festa. I'm currently studying front-end development, learning HTML, CSS, JavaScript, and the basics of Git and GitHub. 
 .</h1>
 
 <p> I'm also studying English to improve my skill
