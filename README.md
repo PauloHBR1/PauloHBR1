@@ -24,9 +24,8 @@ I'm also studying English to improve my skills..</h1>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-    <a>
+    <a
       href="https://www.linkedin.com/in/paulo-henrique-ribeiro-0a4788244/" alt"linkedin" width="30" height"30"/>
-    </a>
   </a>
 </p>
 ---
