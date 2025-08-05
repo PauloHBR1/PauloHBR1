@@ -14,7 +14,7 @@ I'm 24 years old. I work as a sales assistant at Oficina da Festa. I'm currently
 <h2>Habilidades:</h2>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <a href="https://icongr.am/devicon/javascript-original.svg?size=90&color=currentColor" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
